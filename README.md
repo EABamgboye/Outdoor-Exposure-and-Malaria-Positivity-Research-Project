@@ -26,13 +26,13 @@ The data has 3,831 observations, with 109 columns and has six main categories of
    outdoor_work_hours_6pm_9pm , outdoor_work_hours_9pm_12am ,
    outdoor_work_hours_12am_3am , outdoor_work_hours_3am_6am
  
-5) __Outdoor Recreational/Leisure Related Exposure Variables__
+5) __Outdoor Recreational/Leisure Related Exposure Variables (Times Exposed)__
    outdoor_leisure_hours_6am_9am ,  outdoor_leisure_hours_9am_12noon ,
    outdoor_leisure_hours_12noon_3pm , outdoor_leisure_hours_3pm_6pm ,
    outdoor_leisure_hours_6pm_9pm , outdoor_leisure_hours_9pm_12am ,
    outdoor_leisure_hours_12am_3am , outdoor_leisure_hours_3am_6am 
    
-6) __Outdoor Household Chores Related Exposure Variables__
+6) __Outdoor Household Chores Related Exposure Variables (Times Exposed)__
    does_outdoor_chores, outdoor_chores_time_6am_9am, outdoor_chores_time_9am_12noon,
    outdoor_chores_time_12noon_3pm , outdoor_chores_time_3pm_6pm,
    outdoor_chores_time_6pm_9pm , outdoor_chores_time_9pm_12am ,
